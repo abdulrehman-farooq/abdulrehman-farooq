@@ -48,7 +48,7 @@ navbar-links:
 social-network-links:
   email: "abdulrehmanfarooq@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: https://github.com/abdulrehman-farooq
+  github: /abdulrehman-farooq
   linkedin: https://www.linkedin.com/in/abdulrehmanfarooq/
 #  facebook: deanattalix
 #  twitter: daattali
